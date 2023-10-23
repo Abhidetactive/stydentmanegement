@@ -1,4 +1,4 @@
-# stydentmanegement
+# studentmanegement
 student management system
 import java.util.ArrayList;
 import java.util.Scanner;
